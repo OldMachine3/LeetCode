@@ -1,25 +1,25 @@
 <img src="https://media.giphy.com/media/eBCcn1FpuONbtBqocd/giphy.gif">
 
-**Resources/sumber**
+## **Resources/sumber**
 - [LeetCode](https://leetcode.com/)
 
-**Easy Question / Pertanyaan Mudah**
+## **Easy Question / Pertanyaan Mudah**
 |Name of Question | Status of Completion | Solution |
 | ----------------| ---------------------|----------|
 | 1. create-hello-world-function | ✅ | Python|
 
 
-**Medium Question**
+## **Medium Question**
 |Name of Question | Status of Completion | Solution |
 | ----------------| ---------------------|----------|
 | 1.  | ✅ | Python|
 
-**Hard Question**
+## **Hard Question**
 |Name of Question | Status of Completion | Solution |
 | ----------------| ---------------------|----------|
 | 1.  | ✅ | Python|
 
-**[30 Days JavaScript Challenge by LeetCode](https://leetcode.com/discuss/study-guide/3458761/Day-13-30-Days-of-LC-JavaScript-Challenge)**
+## **[30 Days JavaScript Challenge by LeetCode](https://leetcode.com/discuss/study-guide/3458761/Day-13-30-Days-of-LC-JavaScript-Challenge)**
 
 <table>
 <thead>
