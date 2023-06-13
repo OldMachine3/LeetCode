@@ -103,11 +103,113 @@
 <td><a href="https://datayi.cn/w/nombN5Z9" rel="ugc">Promise Time Limit</a></td>
 <td><a href="https://leetcode.com/problems/promise-time-limit/editorial/">Editorial</a></td>
 </tr>
-  <tr>
+<tr>
 <td>13</td>
 <td>Promise</td>
 <td><a href="https://datayi.cn/w/3oLQwOg9" rel="ugc">Promise Pool</a></td>
 <td><a href="https://leetcode.com/problems/promise-pool/editorial/">Editorial</a></td>
+</tr>
+<tr>
+<td>14</td>
+<td>Time (setTimeout)</td>
+<td><a href="https://datayi.cn/w/1P64Enz9" rel="ugc">Cache With Time Limit</a></td>
+<td><a href="https://leetcode.com/problems/cache-with-time-limit/editorial/">Editorial</a></td>
+</tr>
+<tr>
+<td>15</td>
+<td>Time (setTimeout)</td>
+<td><a href="https://datayi.cn/w/AovN2Ojo" rel="ugc">Debounce</a></td>
+<td><a href="https://leetcode.com/problems/debounce/editorial/">Editorial</a></td>
+</tr>
+<tr>
+<td>16</td>
+<td>Time (setTimeout)</td>
+<td><a href="https://datayi.cn/w/bR7jOnr9" rel="ugc">Throttle</a></td>
+<td><a href="https://leetcode.com/problems/throttle/editorial/">Editorial</a></td>
+</tr>
+<tr>
+<td>17</td>
+<td>JSON / Recursion / Important Utilities</td>
+<td><a href="https://datayi.cn/w/4PKqJ0z9" rel="ugc">JSON Deep Equal</a></td>
+<td><a href="https://leetcode.com/problems/json-deep-equal/editorial/">Editorial</a></td>
+</tr>
+<tr>
+<td>18</td>
+<td>JSON / Recursion / Important Utilities</td>
+<td><a href="https://datayi.cn/w/GPnkNmWo" rel="ugc">Convert Object to JSON String</a></td>
+<td><a href="https://leetcode.com/problems/convert-object-to-json-string/editorial/">Editorial</a></td>
+</tr>
+<tr>
+<td>19</td>
+<td>JSON / Recursion / Important Utilities</td>
+<td><a href="https://datayi.cn/w/EoZk0Zy9" rel="ugc">Array of Objects to Matrix</a></td>
+<td><a href="https://leetcode.com/problems/array-of-objects-to-matrix/editorial/">Editorial</a></td>
+</tr>
+<tr>
+<td>20</td>
+<td>JSON / Recursion / Important Utilities</td>
+<td><a href="https://datayi.cn/w/LPdzgyA9" rel="ugc">Differences Between Two Objects</a></td>
+<td><a href="https://leetcode.com/problems/differences-between-two-objects/editorial/">Editorial</a></td>
+</tr>
+<tr>
+<td>21</td>
+<td>JSON / Recursion / Important Utilities</td>
+<td><a href="https://datayi.cn/w/YoXvrdGR" rel="ugc">Chunk Array</a></td>
+<td><a href="https://leetcode.com/problems/chunk-array/editorial/">Editorial</a></td>
+</tr>
+<tr>
+<td>22</td>
+<td>JSON / Recursion / Important Utilities</td>
+<td><a href="https://datayi.cn/w/rREX6Gm9" rel="ugc">Flatten Deeply Nested Array</a></td>
+<td><a href="https://leetcode.com/problems/flatten-deeply-nested-array/editorial/">Editorial</a></td>
+</tr>
+<tr>
+<td>23</td>
+<td>This</td>
+<td><a href="https://datayi.cn/w/GR434na9" rel="ugc">Array Prototype Last</a></td>
+<td><a href="https://leetcode.com/problems/array-prototype-last/editorial/">Editorial</a></td>
+</tr>
+<tr>
+<td>24</td>
+<td>This</td>
+<td><a href="https://datayi.cn/w/WoM5GZKo" rel="ugc">Group By</a></td>
+<td><a href="https://leetcode.com/problems/group-by/editorial/">Editorial</a></td>
+</tr>
+<tr>
+<td>25</td>
+<td>This</td>
+<td><a href="https://datayi.cn/w/qPkbxBwR" rel="ugc">Check if Object Instance of Class</a></td>
+<td><a href="https://leetcode.com/problems/check-if-object-instance-of-class/editorial/">Editorial</a></td>
+</tr>
+<tr>
+<td>26</td>
+<td>This</td>
+<td><a href="https://datayi.cn/w/39lbqjpP" rel="ugc">Call Function with Custom Context</a></td>
+<td><a href="https://leetcode.com/problems/call-function-with-custom-context/editorial/">Editorial</a></td>
+</tr>
+<tr>
+<td>27</td>
+<td>Classes</td>
+<td><a href="https://datayi.cn/w/lPQDyGjR" rel="ugc">Event Emitter</a></td>
+<td><a href="https://leetcode.com/problems/event-emitter/editorial/">Editorial</a></td>
+</tr>
+<tr>
+<td>28</td>
+<td>Classes</td>
+<td><a href="https://datayi.cn/w/1R3l3Q0P" rel="ugc">Array Wrapper</a></td>
+<td><a href="https://leetcode.com/problems/array-wrapper/editorial/">Editorial</a></td>
+</tr>
+<tr>
+<td>29</td>
+<td>Generators</td>
+<td><a href="https://datayi.cn/w/xo040MEo" rel="ugc">Generate Fibonacci Sequence</a></td>
+<td><a href="https://leetcode.com/problems/generate-fibonacci-sequence/editorial/">Editorial</a></td>
+</tr>
+<tr>
+<td>30</td>
+<td>Generators</td>
+<td><a href="https://datayi.cn/w/JoOOVj1o" rel="ugc">Nested Array Generator</a></td>
+<td><a href="https://leetcode.com/problems/nested-array-generator/editorial/">Editorial</a></td>
 </tr>
 </tbody>
 </table>
